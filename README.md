@@ -1,4 +1,7 @@
-# Gps
+# Info
+Its a simple GPS route mapping application using Angular4. Im also used Angular CLI to scaffold the project and create custom Components and Services to build an application with a list of runs with calculated totals, and a detail view with a customized map containing a route loaded from GPX data . In future i want to introduce distribution on users.
+
+# Gps app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
 
